@@ -1,7 +1,6 @@
 Hi. I am Venkata Abhiram, Robotics masters student at NYU.
 I am intrested in developing perception and planning modules for autonomous vehicles.
 I am currently learning 
- 
  Perception Stack 
   -->Semantic Segmentation for Self Driving Cars
   -->Object Detection
