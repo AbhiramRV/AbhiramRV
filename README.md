@@ -3,7 +3,13 @@ I am intrested in developing perception and planning modules for autonomous vehi
 I am currently learning 
  Perception Stack 
   -->Semantic Segmentation for Self Driving Cars
+    -U-Net
+    -Maks R-CNN
   -->Object Detection
+    -R-CNN
+    -Fast R-CNN
+    -Faster R_CNN
+    -YOLO
   -->Depth Estimation
   -->Occupancy grid Estimation
   -->Drivable space estimation
@@ -23,5 +29,7 @@ I am currently learning
  Data Structures and Algorithms
  
  Python and C++ programming
+ 
+ Carala Simulator
 
 Email to reach me is abhiramreddy.rachamalla@gmail.com
