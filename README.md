@@ -20,6 +20,8 @@ I am currently learning
   -->Multi object tracking
   -->3D object detection and tracking
   -->3D scene generation and rendering
+  --> Multi -task learning
+  -->Visual transformers(ViT)
  
  Planning Stack
   -->Behaviour planning using Fininte state machines and Reinforcement learning 
