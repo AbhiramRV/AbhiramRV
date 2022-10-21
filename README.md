@@ -20,7 +20,7 @@ I am currently learning
   -->Multi object tracking
   -->3D object detection and tracking
   -->3D scene generation and rendering
-  --> Multi -task learning
+  --> Multi -task learning(Hydra-Nets)
   -->Visual transformers(ViT)
  
  Planning Stack
